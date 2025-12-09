@@ -21,9 +21,7 @@
 title: AHHHH
 email: isaacriddle@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-This is a digital archive that collects submissions 
-from trans-identifying video game players of their 
-self-made digital avatars.
+This is a digital archive that collects submissions from trans-identifying video game players of their self-made digital avatars.
 baseurl: "/youcanbeginagain" # the subpath of your site, e.g. /blog
 url: "https://isaaclriddle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  isaaclriddle
